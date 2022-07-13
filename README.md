@@ -13,5 +13,5 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Demo: https://app.netlify.com/sites/climaap-telecom/settings/domain
+Demo: https://climaap-telecom.netlify.app/
 
