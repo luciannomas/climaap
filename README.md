@@ -1,7 +1,8 @@
 # climaap
 
-This project was bootstrapped with [Create React App].
-Getting Started with Create React App
+This project was bootstrapped with React and [vite].
+Vite is a build tool that aims to provide a faster and more streamlined development experience for modern web projects.
+### https://vitejs.dev/guide/
 
 ## Available Scripts
 
